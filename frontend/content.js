@@ -1,0 +1,2 @@
+
+// import {getShape} from './main'
